@@ -3,7 +3,7 @@
 
 ### What is this repository for? ###
 
-![picture](overall_ranking.PNG)
+![picture](overall_ranking.PNG)  
 * My Solutions for [robotbenchmark](https://robotbenchmark.net/)
 * Status: 17/04/2020
 
