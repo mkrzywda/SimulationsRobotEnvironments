@@ -1,29 +1,11 @@
-# README #
+# Simulations of the Robot Environments #
 
-This README would normally document whatever steps are necessary to get your application up and running.
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* My Solutions for [robotbenchmark](https://robotbenchmark.net/)
 
-### How do I get set up? ###
+### Tasks ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+* Robot Programming (*) - Learn how to program a robot, save your controller program, revert and run the simulation.
+* Obstacle Avoidance (**) - Program a Thymio II robot to cross a classroom filled with obstacles as quickly as possible.
