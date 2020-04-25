@@ -3,11 +3,14 @@
 
 ### What is this repository for? ###
 
+
 ![picture](overall_ranking.PNG)  
 * My Solutions for [robotbenchmark](https://robotbenchmark.net/)
 * Status: 17/04/2020
 
-### Tasks ###
+* [My profile at robotbenchmark.net]:(https://robotbenchmark.net/maciejkrzywda)
+
+### Tasks (Done) ###
 
 * Robot Programming (★) - Learn how to program a robot, save your controller program, revert and run the simulation.
 * Obstacle Avoidance (★★) - Program a Thymio II robot to cross a classroom filled with obstacles as quickly as possible.
