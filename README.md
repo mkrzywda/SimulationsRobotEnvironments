@@ -8,7 +8,7 @@
 * My Solutions for [robotbenchmark](https://robotbenchmark.net/)
 * Status: 24/04/2020
 
-* [My profile at robotbenchmark.net]:(https://robotbenchmark.net/maciejkrzywda)
+* [My profile at robotbenchmark.net](https://robotbenchmark.net/maciejkrzywda)
 
 ### Tasks (Done) ###
 
